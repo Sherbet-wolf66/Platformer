@@ -15,3 +15,6 @@ A GML Starter kit for the **Platformer Tutorial (GML) - Parts 1 & 2**
 ## Credits
 The assets and video tutorials were created by [Shaun Spalding](https://www.youtube.com/c/ShaunSpalding).
 Check out Shaun's amazing collections of videos.
+
+## Implemented parts
+I made the programed clouds run in thesame direction, along with adding all the assets from the video, the way the video instructed.
