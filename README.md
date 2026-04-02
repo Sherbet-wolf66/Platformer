@@ -2,8 +2,8 @@
 
 A GML Starter kit for the **Platformer Tutorial (GML) - Parts 1 & 2**  
 
-* [Platformer Tutorial (GML) - Par 1](https://youtu.be/2z4981CxFkw)          (Finished)
-* [Platformer Tutorial (GML) - Par 2](https://youtu.be/CUFm5DZm-A8)          (Finished)
+* [Platformer Tutorial (GML) - Part 1](https://youtu.be/2z4981CxFkw)          (Finished)
+* [Platformer Tutorial (GML) - Part 2](https://youtu.be/CUFm5DZm-A8)          (Finished)
 
 ***Notes***: 
 
