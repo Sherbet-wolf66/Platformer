@@ -8,6 +8,7 @@
     {"name":"sPlayer","order":2,"path":"sprites/sPlayer/sPlayer.yy",},
     {"name":"sPlayerA","order":4,"path":"sprites/sPlayerA/sPlayerA.yy",},
     {"name":"sPlayerR","order":7,"path":"sprites/sPlayerR/sPlayerR.yy",},
+    {"name":"spr_double_jump","order":8,"path":"sprites/spr_double_jump/spr_double_jump.yy",},
     {"name":"sWalls","order":5,"path":"sprites/sWalls/sWalls.yy",},
   ],
 }
