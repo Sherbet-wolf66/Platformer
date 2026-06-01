@@ -60,3 +60,18 @@ else
 }
 
 if (hsp != 0) image_xscale = sign(hsp);
+
+
+if (powerup_countdown > 0)
+{
+    powerup_speed = 10;  // Change as needed
+    powerup_countdown = powerup_countdown - 1;
+}
+else
+{
+    powerup_speed = 0;  // Reset bonus speed
+}
+
+y += sign(mouse_y - y) * (global.Speed + powerup_speed);
+
+oPlayer.powerup_countdown = 30 * room_speed;  // Power-up lasts for 30 secs
