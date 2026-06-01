@@ -34,6 +34,7 @@
   },
   "name":"GML Platformer",
   "resources":[
+    {"id":{"name":"obj_speed_boost","path":"objects/obj_speed_boost/obj_speed_boost.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},

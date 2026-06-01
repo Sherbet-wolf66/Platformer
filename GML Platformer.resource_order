@@ -1,6 +1,7 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"obj_speed_boost","order":2,"path":"objects/obj_speed_boost/obj_speed_boost.yy",},
     {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
     {"name":"sBackground","order":1,"path":"sprites/sBackground/sBackground.yy",},
     {"name":"sClouds","order":3,"path":"sprites/sClouds/sClouds.yy",},
