@@ -1,8 +1,8 @@
 /// @desc Core Player Logic
 
 //Get player inputs
-key_left = keyboard_check_pressed(vk_left);
-key_right = keyboard_check_pressed(vk_right);
+key_left = keyboard_check(vk_left);
+key_right = keyboard_check(vk_right);
 key_jump = keyboard_check_pressed(vk_space);
 
 //Calculate movement
@@ -60,8 +60,4 @@ else
 }
 
 if (hsp != 0) image_xscale = sign(hsp);
-var _h = keyboard_check(vk_right) - keyboard_check(vk_left);
-var _v = keyboard_check(vk_down) - keyboard_check(vk_up);
 
-x += _h * move_speed;
-y += _v * move_speed;
